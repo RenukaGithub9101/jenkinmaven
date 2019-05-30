@@ -2,10 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.codebind</groupId>
   <artifactId>maven-demo</artifactId>
-   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
 </project>
-<plugin>
-  <artifactId>maven-war-plugin</artifactId>
-  <version>3.0.0</version>
-</plugin>
+
